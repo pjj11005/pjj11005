@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![pjj11005's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjj11005&show_icons=true&theme=tokyonight)
+
 <!--
 **pjj11005/pjj11005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
