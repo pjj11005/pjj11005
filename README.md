@@ -2,7 +2,9 @@
 
 <!--![pjj11005's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjj11005&show_icons=true&theme=tokyonight)-->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pjj21)](https://solved.ac/pjj21)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pjj21)](https://solved.ac/pjj21) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjj11005&layout= compact&theme=dark)
+
+
 <!--
 **pjj11005/pjj11005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
