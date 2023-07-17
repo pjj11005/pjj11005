@@ -12,7 +12,7 @@
 
   🔎 Object Detection, Segmentation 에 관심이 있습니다.
 
-  🗣 ML/DL 관련 지식과 코드 해석 능력이 있습니다.
+  🗣 ML/DL 관련 지식과 코드 해석 능력이 좋습니다.
 
 # 🛠 Skills
   
