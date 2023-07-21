@@ -4,7 +4,7 @@
 
 <!--<a href="https://lava-thrush-ec8.notion.site/6c06cb79f2474823861cb102c593f855"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a> --> 
 
-![pjj11005's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjj11005&show_icons=true&theme=radical)
+<!--![pjj11005's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjj11005&show_icons=true&theme=radical)-->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjj21)](https://solved.ac/pjj21/)
   
 # 📌About me
