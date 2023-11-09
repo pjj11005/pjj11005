@@ -10,7 +10,7 @@
 # 📌About me
   🎓 광운대학교 정보융합학부 데이터사이언스전공 4학년 학부생
 
-  🔎 Object Detection, Segmentation 에 관심이 있습니다.
+  🔎 Computer vision, 추천시스템에 관심이 있습니다.
 
   🗣 ML/DL 관련 지식과 코드 해석 능력이 좋습니다.
 
