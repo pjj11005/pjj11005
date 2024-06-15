@@ -15,7 +15,7 @@
   - Data Science Major, School of Information Convergence, Kwangwoon University (2018 ~ 2024)
 
 # 📌Link
-  - [**Resume**](https://docs.google.com/document/d/174DJEnfJ495DvGtkCf8JcD61up8exfdRKvxgpMlJG_U/edit?usp=sharing)
+  <!-- - [**Resume**](https://docs.google.com/document/d/174DJEnfJ495DvGtkCf8JcD61up8exfdRKvxgpMlJG_U/edit?usp=sharing) -->
   
   - [**Git Blog**](https://pjj11005.github.io/)
 
