@@ -17,7 +17,7 @@ Data Science Major, School of Information Convergence, Kwangwoon University (201
   
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 
 # 📌Blog
 [![Medium Badge](http://img.shields.io/badge/-medium-000000?style=flat-square&logo=medium&link=https://medium.com/@pjj11005)](https://medium.com/@pjj11005) [![Git Blog Badge](http://img.shields.io/badge/-Git%20blog-0101DF?style=flat-square&logo=github&link=https://pjj11005.github.io/)](https://pjj11005.github.io/)
