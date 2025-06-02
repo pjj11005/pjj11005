@@ -9,7 +9,7 @@
 <!--![pjj11005's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjj11005&show_icons=true&theme=radical)-->
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjj21)](https://solved.ac/pjj21/)-->
 # 📄Areas of Interest
-Computer Vision, LLM
+LLM
 
 # 🏫Education
 Data Science Major, School of Information Convergence, Kwangwoon University (2018 ~ 2024)
