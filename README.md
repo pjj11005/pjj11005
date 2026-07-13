@@ -24,5 +24,6 @@ Data Science Major, School of Information Convergence, Kwangwoon University (201
 ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Amazon AWS Badge](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite Badge](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Visual Studio Code Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)-->
 
 # 📌Blog
-[![Medium Badge](http://img.shields.io/badge/-medium-000000?style=flat-square&logo=medium&link=https://medium.com/@pjj11005)](https://medium.com/@pjj11005) 
+[![Tistory Badge](https://img.shields.io/badge/-Tistory-000000?style=flat-square&logo=tistory&logoColor=white&link=https://pjj11005.tistory.com/)](https://pjj11005.tistory.com/)
+<!--[![Medium Badge](http://img.shields.io/badge/-medium-000000?style=flat-square&logo=medium&link=https://medium.com/@pjj11005)](https://medium.com/@pjj11005) -->
 <!--[![Git Blog Badge](http://img.shields.io/badge/-Git%20blog-0101DF?style=flat-square&logo=github&link=https://pjj11005.github.io/)](https://pjj11005.github.io/)-->
